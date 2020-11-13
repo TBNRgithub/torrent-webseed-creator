@@ -6,7 +6,7 @@ on:
       
 env:
   name: "Mk2OUP8rfHOn1MqdlhPt3j7FHcVXC5ByQUAQfhsw.zip"
-  comment: "Resident.Evil.3.zip"
+  comment: "Resident Evil.3.zip"
   url: https://download171.uploadhaven.com/1/application/zip/Mk2OUP8rfHOn1MqdlhPt3j7FHcVXC5ByQUAQfhsw.zip?key=VZdyM8Xpo-ztzzi2SRv82w&expire=1605265741&filename=Resident.Evil.3.zip
   file_name: "Resident.Evil.3.zip"
   piece_size: 25 # Check the README.md for recommended piece size
